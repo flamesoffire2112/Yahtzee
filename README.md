@@ -1,4 +1,5 @@
 Yahtzee
+=======
 
 > **IMPORTANT**: Any student submitting the codes as their own is an act of plaigarism and 
 is a violation of Washington State University's *"Student Honor's Code"*. The 
